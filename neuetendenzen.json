@@ -1,0 +1,253 @@
+{
+    "nodes": [
+        {
+            "id": "100",
+            "name": "Neue Tendenzen",
+            "val": 5,
+            "img": "gewebe/100.jpg"
+        },
+        {
+              "id": "200",
+              "name": "Constructive Visual Research",
+              "val": 5,
+            "img": "gewebe/200.jpg"
+        },
+        {
+          "id": "210",
+          "name": "The Responsive Eye",
+          "val": 5,
+            "img": "gewebe/210.jpg"
+        },
+        {
+          "id": "220",
+          "name": "Josef Albers",
+          "val": 5,
+            "img": "gewebe/220.jpg"
+        },
+        {
+          "id": "230",
+          "name": "Rudolf Arnheim",
+          "val": 5,
+            "img": "gewebe/230.jpg"
+        },
+        {
+          "id": "240",
+          "name": "Victor Vasarely",
+          "val": 5,
+            "img": "gewebe/240.jpg"
+        },
+        {
+          "id": "250",
+          "name": "Le Mouvement",
+          "val": 5,
+            "img": "gewebe/250.jpg"
+        },
+        {
+          "id": "260",
+          "name": "GRAV",
+          "val": 5,
+            "img": "gewebe/260.jpg"
+        },
+        {
+          "id": "300",
+          "name": "Computer Visual Research",
+          "val": 5,
+            "img": "gewebe/300.jpg"
+        },
+        {
+          "id": "310",
+          "name": "Cybernetic Serendipity",
+          "val": 5,
+            "img": "gewebe/310.jpg"
+        },
+        {
+          "id": "320",
+          "name": "A. Michael Noll",
+          "val": 5,
+            "img": "gewebe/320.jpg"
+        },
+        {
+          "id": "330",
+          "name": "Georg Nees",
+          "val": 5,
+            "img": "gewebe/330.jpg"
+        },
+        {
+          "id": "340",
+          "name": "Frieder Nake",
+          "val": 5,
+            "img": "gewebe/340.jpg"
+        },
+        {
+          "id": "350",
+          "name": "Max Bense",
+          "val": 5,
+            "img": "gewebe/350.jpg"
+        },
+        {
+          "id": "360",
+          "name": "Hiroshi Kawano",
+          "val": 5,
+            "img": "gewebe/360.jpg"
+        },
+        {
+          "id": "370",
+          "name": "Manfred Mohr",
+          "val": 5,
+            "img": "gewebe/370.jpg"
+        },
+        {
+          "id": "380",
+          "name": "Art Ex Machina",
+          "val": 5,
+            "img": "gewebe/380.jpg"
+        },
+        {
+          "id": "400",
+          "name": "Conceptual Art",
+          "val": 5,
+            "img": "gewebe/400.jpg"
+        },
+        {
+          "id": "410",
+          "name": "Software",
+          "val": 5,
+            "img": "gewebe/410.jpg"
+        },
+        {
+          "id": "420",
+          "name": "Information",
+          "val": 5,
+            "img": "gewebe/420.jpg"
+        },
+        {
+          "id": "430",
+          "name": "Sol LeWitt",
+          "val": 5,
+            "img": "gewebe/430.jpg"
+        },
+        {
+          "id": "440",
+          "name": "Joseph Kosuth",
+          "val": 5,
+            "img": "gewebe/440.jpg"
+        },
+        {
+          "id": "450",
+          "name": "Lawrence Weiner",
+          "val": 5,
+            "img": "gewebe/450.jpg"
+        },
+        {
+          "id": "460",
+          "name": "Art-Language",
+          "val": 5,
+            "img": "gewebe/460.jpg"
+        },
+        {
+          "id": "470",
+          "name": "Jenny Holzer",
+          "val": 5,
+            "img": "gewebe/470.jpg"
+        }
+        
+    ],
+    "links": [
+        {
+            "source": "100",
+            "target": "200"
+        },
+        {
+            "source": "100",
+            "target": "300"
+        },
+        {
+            "source": "100",
+            "target": "400"
+        },
+        {
+            "source": "200",
+            "target": "210"
+        },
+        {
+            "source": "200",
+            "target": "220"
+        },
+        {
+            "source": "200",
+            "target": "230"
+        },
+        {
+            "source": "200",
+            "target": "240"
+        },
+        {
+            "source": "200",
+            "target": "250"
+        },
+        {
+            "source": "200",
+            "target": "260"
+        },
+        {
+            "source": "300",
+            "target": "310"
+        },
+        {
+            "source": "300",
+            "target": "320"
+        },
+        {
+            "source": "300",
+            "target": "330"
+        },
+        {
+            "source": "300",
+            "target": "340"
+        },
+        {
+            "source": "300",
+            "target": "350"
+        },
+        {
+            "source": "300",
+            "target": "360"
+        },
+        {
+            "source": "300",
+            "target": "370"
+        },
+        {
+            "source": "300",
+            "target": "380"
+        },
+        {
+            "source": "400",
+            "target": "410"
+        },
+        {
+            "source": "400",
+            "target": "420"
+        },
+        {
+            "source": "400",
+            "target": "430"
+        },
+        {
+            "source": "400",
+            "target": "440"
+        },
+        {
+            "source": "400",
+            "target": "450"
+        },
+        {
+            "source": "400",
+            "target": "460"
+        },
+        {
+            "source": "400",
+            "target": "470"
+        }
+    ]
+}
